@@ -1,0 +1,5 @@
+The start of file 3.
+
+There is a blank line over this line.
+The content of file 3.
+The end of file 3.
