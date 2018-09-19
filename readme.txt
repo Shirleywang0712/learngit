@@ -1,3 +1,4 @@
+fix bug 001 on issue-001 branch 0919-3.
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
