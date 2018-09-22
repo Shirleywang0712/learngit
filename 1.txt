@@ -1,6 +1,1 @@
-update 666 on master,update on dev not merge to master.
-update 44444 on branch master.
-update 3333 on branch dev ,and commit ,The checkout to master to udate.
-update 2222 to commit.
-update 1111 not to commit .
-add new 1.txt ---by user/wangrong.
+111111111111
